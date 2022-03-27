@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\bin\Debug\Inhertance.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\obj\Debug\Inhertance.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\bin\Debug\Inhertance.exe
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\bin\Debug\Inhertance.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\obj\Debug\Inhertance.exe
+c:\users\dell\documents\visual studio 2013\Projects\Inhertance\Inhertance\obj\Debug\Inhertance.pdb

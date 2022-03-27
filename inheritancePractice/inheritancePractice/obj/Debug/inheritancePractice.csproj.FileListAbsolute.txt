@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\bin\Debug\inheritancePractice.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\bin\Debug\inheritancePractice.exe
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\bin\Debug\inheritancePractice.pdb
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\obj\Debug\inheritancePractice.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\obj\Debug\inheritancePractice.exe
+c:\users\dell\documents\visual studio 2013\Projects\inheritancePractice\inheritancePractice\obj\Debug\inheritancePractice.pdb

@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\MM T Library.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\MM T Library.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\obj\Debug\MM T Library.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\obj\Debug\MM T Library.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\x86\sqlite3.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\x64\sqlite3.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\Dapper.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\System.Data.SQLite.dll
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\Dapper.xml
+c:\users\dell\documents\visual studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM T Library\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM T Library\obj\Debug\MM T Library.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM T Library\obj\Debug\MM T Library.csproj.CopyComplete

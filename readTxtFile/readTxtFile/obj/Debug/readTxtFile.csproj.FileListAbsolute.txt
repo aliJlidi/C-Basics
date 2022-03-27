@@ -1,0 +1,1 @@
+c:\users\dell\documents\visual studio 2013\Projects\readTxtFile\readTxtFile\bin\Debug\readTxtFile.exe.config

@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\ListsPractice\ListsPractice\bin\Debug\ListsPractice.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ListsPractice\ListsPractice\bin\Debug\ListsPractice.exe
+c:\users\dell\documents\visual studio 2013\Projects\ListsPractice\ListsPractice\bin\Debug\ListsPractice.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ListsPractice\ListsPractice\obj\Debug\ListsPractice.exe
+c:\users\dell\documents\visual studio 2013\Projects\ListsPractice\ListsPractice\obj\Debug\ListsPractice.pdb

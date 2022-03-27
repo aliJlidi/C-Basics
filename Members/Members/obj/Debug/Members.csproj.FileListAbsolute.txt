@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\Members\Members\bin\Debug\Members.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Members\Members\bin\Debug\Members.exe
+c:\users\dell\documents\visual studio 2013\Projects\Members\Members\bin\Debug\Members.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Members\Members\obj\Debug\Members.exe
+c:\users\dell\documents\visual studio 2013\Projects\Members\Members\obj\Debug\Members.pdb

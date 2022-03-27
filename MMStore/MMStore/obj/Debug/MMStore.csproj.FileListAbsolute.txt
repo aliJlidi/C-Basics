@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\bin\Debug\MMStore.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\bin\Debug\MMStore.exe
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\bin\Debug\MMStore.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.adminDashboard.resources
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.exe
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.frmUserDashboard.resources
+c:\users\dell\documents\visual studio 2013\Projects\MMStore\MMStore\obj\Debug\MMStore.UI.userForm.resources

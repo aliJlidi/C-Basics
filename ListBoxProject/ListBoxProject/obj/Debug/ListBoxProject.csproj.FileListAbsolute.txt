@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\bin\Debug\ListBoxProject.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\bin\Debug\ListBoxProject.exe
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\bin\Debug\ListBoxProject.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.exe
+c:\users\dell\documents\visual studio 2013\Projects\ListBoxProject\ListBoxProject\obj\Debug\ListBoxProject.pdb

@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\bin\Debug\LogicalTree.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\bin\Debug\LogicalTree.exe
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\bin\Debug\LogicalTree.pdb
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.exe
+c:\users\dell\documents\visual studio 2013\Projects\LogicalTree\LogicalTree\obj\Debug\LogicalTree.pdb

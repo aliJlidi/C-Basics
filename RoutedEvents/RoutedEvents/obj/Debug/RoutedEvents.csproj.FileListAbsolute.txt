@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.exe
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.pdb
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.exe
+c:\users\dell\documents\visual studio 2013\Projects\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.pdb

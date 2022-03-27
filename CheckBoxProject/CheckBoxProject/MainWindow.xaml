@@ -1,0 +1,16 @@
+﻿<Window x:Class="CheckBoxProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Label FontWeight="bold">Pizza Toping</Label>
+        <CheckBox Name="cbAllToping" IsThreeState="True" Checked="cbAllCheckedChanged" Unchecked="cbAllCheckedChanged">Add All</CheckBox>
+        <StackPanel Margin="10 5 0 0 ">
+            <CheckBox Name="cbSalami" Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">
+                <TextBlock Width="517">Salami <Run Foreground="Red" FontWeight="Bold"> Spicy</Run> </TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbMashrooms"  Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mashrooms</CheckBox>
+            <CheckBox Name="cbMozzarila"  Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mozzarilla</CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

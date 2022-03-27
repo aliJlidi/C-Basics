@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\bin\Debug\DependancyProp.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\bin\Debug\DependancyProp.exe
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\bin\Debug\DependancyProp.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp.exe
+c:\users\dell\documents\visual studio 2013\Projects\DependancyProp\DependancyProp\obj\Debug\DependancyProp.pdb

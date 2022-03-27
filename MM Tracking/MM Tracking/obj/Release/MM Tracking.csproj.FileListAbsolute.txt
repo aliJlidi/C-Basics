@@ -1,0 +1,23 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\x86\sqlite3.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\x64\sqlite3.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MMMoneyDB.db
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MM Tracking.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MM Tracking.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MM Tracking.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\Dapper.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MM T Library.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\System.Data.SQLite.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\MM T Library.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\Dapper.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\System.Data.SQLite.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM Tracking.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM_Tracking.Forms.ConfirmationForm.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM_Tracking.Forms.CustomizedErrorMessage.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM_Tracking.Home.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM_Tracking.Forms.MoneyTrack.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM_Tracking.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM Tracking.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM Tracking.csproj.CopyComplete
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM Tracking.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\MM Tracking\MM Tracking\obj\Release\MM Tracking.pdb

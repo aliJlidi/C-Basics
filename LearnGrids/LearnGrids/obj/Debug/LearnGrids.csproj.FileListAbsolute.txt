@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\bin\Debug\LearnGrids.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\bin\Debug\LearnGrids.exe
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\bin\Debug\LearnGrids.pdb
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.exe
+c:\users\dell\documents\visual studio 2013\Projects\LearnGrids\LearnGrids\obj\Debug\LearnGrids.pdb

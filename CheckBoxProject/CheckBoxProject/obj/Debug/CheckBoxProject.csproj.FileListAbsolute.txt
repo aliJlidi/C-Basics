@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\bin\Debug\CheckBoxProject.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\bin\Debug\CheckBoxProject.exe
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\bin\Debug\CheckBoxProject.pdb
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.exe
+c:\users\dell\documents\visual studio 2013\Projects\CheckBoxProject\CheckBoxProject\obj\Debug\CheckBoxProject.pdb

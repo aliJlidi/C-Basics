@@ -1,0 +1,14 @@
+﻿<Window x:Class="LogicalTree.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen" >
+    <StackPanel>
+        <TextBox HorizontalAlignment="Center" Margin="20">Hello World!</TextBox>
+        <ListBox Height="100" Width="100">
+            <ListBoxItem Content="Item 1 "/>
+            <ListBoxItem Content="Item 2 "/>
+            <ListBoxItem Content="Item 3 "/>
+        </ListBox>
+        <Button Margin="20" Width="100" Content="Click Me" Click="Button_Click"></Button>
+    </StackPanel>
+</Window>

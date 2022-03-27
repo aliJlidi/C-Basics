@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\bin\Debug\Inotifyprop.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\bin\Debug\Inotifyprop.exe
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\bin\Debug\Inotifyprop.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.exe
+c:\users\dell\documents\visual studio 2013\Projects\Inotifyprop\Inotifyprop\obj\Debug\Inotifyprop.pdb

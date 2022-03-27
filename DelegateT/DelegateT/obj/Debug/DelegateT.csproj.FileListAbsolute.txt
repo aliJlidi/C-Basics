@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\bin\Debug\DelegateT.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\bin\Debug\DelegateT.exe
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\bin\Debug\DelegateT.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\obj\Debug\DelegateT.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\obj\Debug\DelegateT.exe
+c:\users\dell\documents\visual studio 2013\Projects\DelegateT\DelegateT\obj\Debug\DelegateT.pdb
